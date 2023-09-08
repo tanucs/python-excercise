@@ -1,0 +1,25 @@
+number1= int(input("Enter the value of first no.= "))
+number2= int(input("Enter the value of second no.= "))
+
+add=number1+number2
+print("the sum of",number1,"and",number2,"is",add)
+
+sub=number1-number2
+print("the subtraction of",number1,"and",number2,"is",sub)
+
+div=number1/number2
+print("the division of",number1,"and",number2,"is",div)
+
+exp=number1**number2
+print("the exponential of",number1,"and",number2,"is",exp)
+
+mul=number1*number2
+print("the multiple of",number1,"and",number2,"is",mul)
+
+mud=number1%number2
+print("the module of",number1,"and",number2,"is",mud)
+
+flr=number1//number2
+print("the floor division of",number1,"and",number2,"is",flr)
+
+print(":-)")
